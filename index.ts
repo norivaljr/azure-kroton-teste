@@ -22,7 +22,7 @@ server.connection({ port });
       register: HapiSwagger,
       options: {
         info: {
-          title: 'Agora a bagaça tá foda. Vamu lá....!!!!!!!!!!!!',
+          title: 'Agora apresentando imagem com entrega realizada....!!!!!!!!!!!!',
           version: '1.0',
         },
       },
