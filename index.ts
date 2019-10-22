@@ -37,7 +37,7 @@ server.connection({ port });
         handler: (req: any, reply: any) => {
           return reply(db.find().toArray());
         },
-        description: 'List All heroes',
+        description: 'Liste todos heróis ',
         notes: 'heroes from database',
         tags: ['api'],
       },
